@@ -1,7 +1,7 @@
 {
-    "name": "VamBIR musiccc",
+    "name": "𝐑𝐄𝐏𝐓𝐇𝐎𝐍 ريبثون",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/ba8a0e436f12f8d037ca1.jpg",
+    "logo": "https://telegra.ph/file/2b2cdbe78343504298b97.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
@@ -47,7 +47,7 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "XxllllllllllllllllllllllllllxX"
+            "value": ""
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
@@ -57,7 +57,7 @@
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "XxlllllllllllllllllllllllllllxX"
+            "value": ""
         },
         "ALIVE_NAME": {
             "description": "اتركها كما هي",
